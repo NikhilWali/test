@@ -1,2 +1,2 @@
 # test
-This is Test poject fro praticing GIThub.
+This is Test project for praticing  on GIThub.
